@@ -1,0 +1,6 @@
+# IDEs
+/.idea/
+
+# 3rd party libs
+/bower_components/
+/node_modules/
