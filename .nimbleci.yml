@@ -1,4 +1,4 @@
 ---
 
 repo:
-  url: "https://docker-registry.nimblewarestudios.com"
+  url: "http://docker-registry.nimblewarestudios.com"
