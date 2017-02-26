@@ -1,4 +1,8 @@
 ---
 
+version: "0.1"
+
+dockerfile: ./web/Dockerfile
+
 repo:
   url: "http://docker-registry.nimblewarestudios.com"
