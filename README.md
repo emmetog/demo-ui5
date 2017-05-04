@@ -28,4 +28,4 @@ That's it. The first time you run it the image will be built, which
 might take a few minutes (subsequent builds will be much quicker though).
 After the build finishes, go to this url in your browser:
 
-http://localhost:81
+[http://localhost:81](http://localhost:81)
